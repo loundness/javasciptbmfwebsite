@@ -1,0 +1,82 @@
+body
+{
+	font-family: comic;
+	font-size: 15px;
+	margin:10px;
+	padding: 30px;
+	color: black;
+}
+.section1 
+{
+	font-style: normal;
+	color: black;
+	marker-start: 10px;
+	margin-top: 110px;
+	margin-left: 30px;
+   text-decoration-line:justify;
+	
+}
+h1
+{
+	color: white;
+	font-size: 44px;
+	background:rgb( 216, 61, 16);
+	text-align: center;
+}
+h2
+{
+	text-align:  center;
+	color: blue;
+	font-size: 21px;
+	font-style:oblique;
+
+}
+ul
+{
+	color:red;
+	font-style: italic;
+	text-decoration: underline;
+
+}
+#chngbody
+{
+	color:red;
+
+}
+
+#clas_button 
+{
+    object-position:left;
+	padding:0px
+	width:95px;
+	height:45px;
+	background:#cc0000;
+	font:bold 16px verdana;
+	border:none;
+	color:white;
+	width:150px;
+	border-color: white;
+	border-width: 2px;
+	border-style: groove;
+	box-shadow: 0px 4px 6px grey;
+}
+	
+#psy_button
+{ 
+	object-position:right;
+	padding: 0px;
+	width:95px;
+	height:45px;
+	background:#cc0000;
+	font:bold 16px verdana;
+	border:none;
+	color:white;
+	width:150px;
+	border-color: white;
+	border-width: 2px;
+	border-style: dashed;
+	box-shadow: 3px 4px 0px grey; 
+	bottom: 10px;	
+	
+}
+

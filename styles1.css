@@ -1,0 +1,73 @@
+body
+{
+	font-family: papyrus;
+	font-size: 15px;
+	margin:10px;
+	padding: 30px;
+	color: blue;
+	background-color: magenta;
+}
+h1
+{
+	color: green;
+	font-size: 44px;
+	background: magenta;
+	text-align: center;
+	font-family: "Comic Sans MS", cursive;
+}
+h2
+{
+	color:green;
+	font-size: 21px;
+	text-align:  center;
+	background: magenta;
+	font-family:"Comic Sans MS", cursive;
+
+}
+.section1 
+{
+	font-style: normal;
+	color: blue;
+	marker-start: 10px;
+	margin-top: 110px;
+	margin-left: 30px;
+    text-decoration-line:justify;
+	
+}
+
+#clas_button 
+{ 	
+	
+	object-position:left;
+	padding:0px
+	width:95px;
+	height:45px;
+	background:#cc0000;
+	font:bold 16px verdana;
+	border-radius:50%;
+	border:none;
+	color:white;
+	width:150px;
+	border-color: white;
+	border-width: 2px;
+	border-style: groove;
+	box-shadow: 0px 4px 6px grey;
+}
+#psy_button 
+{ 
+	object-position: right; 
+	padding: 0px;
+	width:95px;
+	height:45px;
+	background:#cc0000;
+	font:bold 16px verdana;
+	border-radius:50%;
+	border:none;
+	color:white;
+	width:150px;
+	border-color: white;
+	border-width: 2px;
+	border-style: dashed;
+	box-shadow: 3px 4px 0px grey;	
+	
+}
